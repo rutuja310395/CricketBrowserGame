@@ -7,9 +7,8 @@
 ***
 ## Rules To Contribute To This Repo
 
--   Use any language.
--   C, C++, JAVA, Data Structure and Algorithms, HTML, CSS, Android Projects.
--   Anything valuable.
+- make the changes in styling
+- make the change for the behaviour of the Page / game
 
 
 
